@@ -1,0 +1,9 @@
+dataset
+*.tar
+*.pickle
+*.pyc
+*.zip
+*.vector_cache
+*.vscode
+*.model
+kernel*
