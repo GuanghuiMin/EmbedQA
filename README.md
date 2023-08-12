@@ -8,7 +8,7 @@ This project aims to investigate the performance of BiDAF (Bi-Directional Attent
 ## Framework of BiDAF and DrQA
 
 
-<img src="/Users/minguanghui/Desktop/materials/BiDAF_current_use/framework.png" alt="framework" style="zoom:50%;" />
+<img src="./framework.png" alt="framework" style="zoom:50%;" />
 
 ## How to run?
 
@@ -22,4 +22,4 @@ python main.py
 
 ## Evaluation
 
-![result](/Users/minguanghui/Desktop/materials/BiDAF_current_use/result.png)
+![result](./result.png)
